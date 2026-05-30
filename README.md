@@ -1,5 +1,5 @@
 # lab_equipment_project
-# Lab Equipment API
+
 
 This is a Rails application designed to track the lab equipment and maintenance log for a university or research lab. It supports multiple CRUD actions and validation logic as required across specific tasks.
 
